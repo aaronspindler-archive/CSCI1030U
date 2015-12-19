@@ -1,0 +1,5 @@
+Negate x using 2's complement.
+Reverse all the bits in x.
+Add 1 to form -x.
+Add -x and y.
+Discard any bits greater than n.

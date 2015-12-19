@@ -1,0 +1,5 @@
+Negate x using 1's complement.
+  Reverse all the bits in x to form -x.
+Add -x and y.
+If the sum exceeds n bits, add the extra bit to the result.
+If the sum does not exceed n bits, leave the result as it is.
