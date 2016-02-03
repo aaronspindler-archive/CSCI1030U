@@ -52,4 +52,4 @@ def animateBungeeJumper(mass, deltaT, simulationTime, surfaceArea, unstretchedBu
         bungee.axis.y = -bungee.pos.y + jumper.pos.y
 
 #Test the function
-animateBungeeJumper(60,0.1,90,0.2,30)
+animateBungeeJumper(60,0.1,360,0.2,30)
